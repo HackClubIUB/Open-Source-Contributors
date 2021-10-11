@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  color: white;
+  background-color: #252429;
+}
+
+.app__header {
+  padding: 50px;
+}
