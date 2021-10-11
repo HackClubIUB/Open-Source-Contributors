@@ -5,5 +5,12 @@
     "major": "Computer Science (IUB)",
     "githubUsername": "sharjeelyunus",
     "favoriteLanguage": "JavaScript"
-  }
+  },
+   {
+      "name": "Ahmad Amin",
+      "batch": 2018,
+      "major": "Computer Science (KFUIET)",
+      "githubUsername": "iahmadamin",
+      "favoriteLanguage": "Dart"
+    }
 ]
