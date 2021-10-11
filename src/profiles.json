@@ -13,5 +13,13 @@
     "major": "Data Science (IUB)",
     "githubUsername": "Hamna12",
     "favoriteLanguage": "Python"
+  },
+  
+  {
+    "name": "Sharjeel",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "madsharjeel",
+    "favoriteLanguage": "JavaScript"
   }
 ]
