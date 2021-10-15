@@ -14,6 +14,39 @@
     "githubUsername": "Hamna12",
     "favoriteLanguage": "Python"
   },
+  
+  {
+    "name": "Aadil Saeed",
+    "batch": 2019,
+    "major": "Computer Science (IUB)",
+    "githubUsername": "aadilsaeed",
+    "favoriteLanguage": "JavaScript"
+  },
+  
+  {
+    "name": " Ghazala Fatima",
+    "batch": 2019,
+    "major": "Computer Science",
+    "githubUsername": "iriswest",
+    "favoriteLanguage": "Java"
+  },
+   
+  {
+    "name": "Arbaz Khan",
+    "batch": 2019,
+    "major": "Computer SCience",
+    "githubUsername": "LOL-NOOB47",
+    "favoriteLanguage": "Flutter"
+  },
+  
+  {
+    "name": "Abdul Qayyum",
+    "batch": 2020,
+    "major": "Software Engineering (IUB)",
+    "githubUsername": "Qayyum-1",
+    "favoriteLanguage": "HTML/CSS/JavaScript"
+  },
+  
   {
     "name": "Amber Shahzad",
     "batch": 2020,
