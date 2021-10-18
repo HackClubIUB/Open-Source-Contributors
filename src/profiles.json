@@ -61,10 +61,17 @@
     "githubUsername": "SamanMahmood",
     "favoriteLanguage": "Html"
   },
-  "name": " Ahmad Bin Abdul Jabbar",
+  {"name": " Ahmad Bin Abdul Jabbar",
     "batch": 2020,
     "major": "Computer Science",
     "githubUsername": "AhmadBinAbdulJabbar",
     "favoriteLanguage": "Html"
+  },
+  {
+    "name": "juniorxcoder",
+    "batch": 2021,
+    "major": "Computer Science",
+    "githubUsername": "juniorxcoder",
+    "favoriteLanguage": "php"
   }
 ]
