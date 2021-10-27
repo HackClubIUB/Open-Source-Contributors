@@ -73,5 +73,12 @@
     "major": "Computer Science",
     "githubUsername": "juniorxcoder",
     "favoriteLanguage": "php"
+  },
+  {
+    "name": "Abdul Wahab Siddiqui",
+    "batch": 2019,
+    "major": "Computer Science (IUB)",
+    "githubUsername": "wahabsiddiqui",
+    "favoriteLanguage": "flutter"
   }
 ]
