@@ -87,5 +87,12 @@
     "major": "Software Engineering (IUB)",
     "githubUsername": "Faizan Sattar",
     "favoriteLanguage": "JavaScript"
+  },
+   {
+    "name": "Noel Joel",
+    "batch": 2019,
+    "major": "Computer Science (IUB)",
+    "githubUsername": "noeljoel2000",
+    "favoriteLanguage": "Python"
   }
 ]
