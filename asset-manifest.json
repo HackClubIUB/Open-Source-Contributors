@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Open-Source-Contributors/static/css/main.033c2234.chunk.css",
+    "main.js": "/Open-Source-Contributors/static/js/main.c3632749.chunk.js",
+    "main.js.map": "/Open-Source-Contributors/static/js/main.c3632749.chunk.js.map",
+    "runtime-main.js": "/Open-Source-Contributors/static/js/runtime-main.df4cf1af.js",
+    "runtime-main.js.map": "/Open-Source-Contributors/static/js/runtime-main.df4cf1af.js.map",
+    "static/js/2.c38961ef.chunk.js": "/Open-Source-Contributors/static/js/2.c38961ef.chunk.js",
+    "static/js/2.c38961ef.chunk.js.map": "/Open-Source-Contributors/static/js/2.c38961ef.chunk.js.map",
+    "index.html": "/Open-Source-Contributors/index.html",
+    "static/css/main.033c2234.chunk.css.map": "/Open-Source-Contributors/static/css/main.033c2234.chunk.css.map",
+    "static/js/2.c38961ef.chunk.js.LICENSE.txt": "/Open-Source-Contributors/static/js/2.c38961ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df4cf1af.js",
+    "static/js/2.c38961ef.chunk.js",
+    "static/css/main.033c2234.chunk.css",
+    "static/js/main.c3632749.chunk.js"
+  ]
+}
